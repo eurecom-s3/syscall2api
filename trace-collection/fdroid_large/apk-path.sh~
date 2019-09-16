@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ "$#" -ne 1 ]; then
+    echo "$0 <package-name>"
+else
+    APK_CACHE=~/.cache/fdroidcl/apks
+    echo $APK_CACHE/$1
+fi
+
+

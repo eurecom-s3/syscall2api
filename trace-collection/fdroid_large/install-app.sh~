@@ -1,0 +1,4 @@
+#!/bin/bash
+
+if [ "$#" -ne 1 ]; then
+    echo "$0 <app-name>" > /dev/stderr
