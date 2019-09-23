@@ -1,0 +1,17 @@
+main.pdf
+main.log
+main.aux
+main.bbl
+main.blg
+main.out
+main_copy.pdf
+
+*.synctex.gz
+*.log
+*.sublime-*
+*.kate-swp
+*~
+*.fls
+*.fdb_latexmk
+*.aux
+\#*\#
