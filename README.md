@@ -22,6 +22,9 @@ The most important scripts are:
 4. `eval_ambiguity.py`: measures the ambiguity of the API models (see Section 7.4 in [1])  
 5. `match_assessment.py`: performs the matching algorithm on a list of syscall traces. It also measures the percentage of correct matches and the percentage of the length of the traces that are covered with correct matches.  
 
+## Dataset
+The relevant dataset used in our paper is available [here](http://crazyivan.s3.eurecom.fr:8888/syscall2api_dataset.tar.gz).
+
 ## References
 [1] D. Nisi, A. Bianchi, Y. Fratantonio.
 "Exploring Syscall-Based Semantics Reconstruction of Android Applications"
